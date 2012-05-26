@@ -38,3 +38,6 @@ gem 'jquery-rails', '2.0.0'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
+
+# Deploy to Heroku
+gem 'heroku'
